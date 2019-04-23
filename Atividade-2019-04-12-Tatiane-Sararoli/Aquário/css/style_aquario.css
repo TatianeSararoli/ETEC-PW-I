@@ -1,0 +1,43 @@
+.quadrado1{
+	position: absolute;
+	width: 900px;
+	height: 544px;
+	background-color: #00FFFF;
+	border: 3px solid;
+}
+.header{
+	position: absolute;
+	top: 50px;
+	margin-left: 250px;
+	width: 630px;
+	border: medium black dotted;
+	margin-bottom: 15px;
+}
+.menu-esquerdo{
+	position: absolute;
+	top: 250px;
+	margin: 10px;
+	width: 250px;
+}
+.borda-solida{
+	border-bottom: 1px solid;
+}
+.imagem1{
+	position: absolute;
+	margin: 25px;
+}
+.imagens{
+	position: absolute;
+	top: 175px;
+	margin-left: 250px;
+}
+.barra1{
+	position: absolute;
+	top: 505px;
+	width: 905px;
+	height: 50px;
+	background-color: #000000;
+}
+.cor-de-texto{
+	color: #FFFFFF;
+}
